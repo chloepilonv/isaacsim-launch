@@ -1,0 +1,5 @@
+.env
+deploy/.state
+output/
+.DS_Store
+__pycache__/
